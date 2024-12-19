@@ -1,0 +1,1 @@
+# openstack-manila-service-image
